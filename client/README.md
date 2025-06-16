@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Referencias
+- Chatgpt
+- Codigo Propio
+## Recomendacion
+No hacer npm audit fix o audit fix --force, debido a problemas con el package.json
 ## Available Scripts
 
 In the project directory, you can run:

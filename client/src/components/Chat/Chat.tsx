@@ -57,7 +57,7 @@ const Chat: React.FC = () => {
 
   const joinRoom = () => {    
     if (room) {
-      socketRef.current?.emit('join_room', room);
+      socketRef.current?.emit('join_room', {roomId:room,username:user.name});
       setShowChat(true);
     }
   };
