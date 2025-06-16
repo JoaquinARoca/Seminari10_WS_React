@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Codigo Propio
 ## Recomendacion
 No hacer npm audit fix o audit fix --force, debido a problemas con el package.json
+Para usar el cliente hacer cd client
+
 ## Available Scripts
 
 In the project directory, you can run:
